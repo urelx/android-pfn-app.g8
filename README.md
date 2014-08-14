@@ -10,7 +10,7 @@ To use this template, g8 needs to be installed first. Read g8's
 
 You can 
 
-    g8 taisukeoe/android-pfn-app
+    g8 urelx/android-pfn-app
     cd <name-of-app>
     sbt android:package-debug
 
